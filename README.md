@@ -40,18 +40,28 @@ The project supports the following conversion specifiers:
 ## 📁 Project Structure
 
 ft_printf/
-├── includes/
-│ └── ft_printf.h # Header file with function prototypes
-├── srcs/
-│ ├── ft_printf.c # Main ft_printf function
-│ ├── utils.c # Helper functions
-│ ├── print_char.c # Character printing
-│ ├── print_str.c # String printing
-│ ├── print_int.c # Integer printing
-│ └── print_hex.c # Hexadecimal printing
-├── Makefile # Build library
-└── README.md
 
+├── includes/
+
+│ └── ft_printf.h # Header file with function prototypes
+
+├── srcs/
+
+│ ├── ft_printf.c # Main ft_printf function
+
+│ ├── utils.c # Helper functions
+
+│ ├── print_char.c # Character printing
+
+│ ├── print_str.c # String printing
+
+│ ├── print_int.c # Integer printing
+
+│ └── print_hex.c # Hexadecimal printing
+
+├── Makefile # Build library
+
+└── README.md
 
 ---
 
